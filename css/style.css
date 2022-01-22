@@ -35,6 +35,10 @@
     cursor: pointer;
 }
 
+.white-border {
+    border: 2px solid transparent;
+}
+
 .bordered {
     border: 2px solid lightcoral;
 }
